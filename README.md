@@ -30,3 +30,11 @@ The analysis includes:
 
 ## Notes
 This repository is based on a portfolio management project using historical stock return data to study risk-return tradeoffs and portfolio construction.
+
+## Sample Output
+This repository also includes example output screenshots from the portfolio simulation, including:
+- total portfolio value
+- total gain/loss
+- stock-level holdings and position performance
+
+These outputs were used to compare portfolio composition and performance under different construction approaches.
